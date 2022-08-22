@@ -1,0 +1,30 @@
+body {
+   margin: 16px;
+   font: sans-serif;
+}
+
+.header {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+}
+
+.logo {
+    display: flex;
+    padding: 8px;
+    color: rgba(248, 248, 130, 0.647);
+}
+
+ul {
+    display: flex;
+    margin: 1;
+    padding: 8px;
+    gap: 20px;
+    list-style-type: none;   
+}
+
+a {
+    text-decoration: none;
+    color: rgba(248, 248, 130, 0.647);
+}
